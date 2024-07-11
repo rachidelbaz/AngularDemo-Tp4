@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNjE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiaGljaGFtIiwibGFzdG5hbWUiOiJFTCBiYXoiLCJlbWFpbCI6ImhpLmVsQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.GMiVi7MsDZMa8T0JTcew7XIndMtMDvPIqcIeZjf37OQ"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNjE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiaGljaGFtIiwibGFzdG5hbWUiOiJFTCBiYXoiLCJlbWFpbCI6ImhpLmVsQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.GMiVi7MsDZMa8T0JTcew7XIndMtMDvPIqcIeZjf37OQ"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNjE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoicmFjaGlkIiwibGFzdG5hbWUiOiJFTCBCQVoiLCJlbWFpbCI6IlJBLkVMQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.pIr8fLABb412TkUabxyKDQ0W_HsYJfnaZRSfN3JIbBo"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Computer",
+      "price": 11000,
+      "checked": false
+    },
+    {
+      "id": "3",
+      "name": "Printer",
+      "price": 700,
+      "checked": false
+    },
+    {
+      "id": "4d2a",
+      "name": "Smartwatch",
+      "price": "4000",
+      "checked": false
+    },
+    {
+      "id": "2ff2",
+      "name": "b",
+      "price": "100",
+      "checked": true
+    },
+    {
+      "id": "5d25",
+      "name": "test",
+      "price": "4500",
+      "checked": true
+    },
+    {
+      "id": "5d25",
+      "name": "test",
+      "price": "4500",
+      "checked": true
+    },
+    {
+      "id": "5a9b",
+      "name": "mm",
+      "price": "500",
+      "checked": false
+    }
+  ]
+}
